@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://drive.google.com/file/d/1Nxi6te-d1CNEvavnxZ7p91piMzuS1h2X/view?usp=sharing"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/39413249?v=4"  />
 
 ###
 
