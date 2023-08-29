@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.iimtindia.net/Blog/wp-content/uploads/2021/10/Data_Science_Software_Development.jpg"  />
+<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgydvZd8eShCOx2l7ek6sR0EBFev7PzAWc8KuB7A3Y-mT21Elm084jwsrJPZdAUMIOi0k&usqp=CAU"  />
 
 ###
 
